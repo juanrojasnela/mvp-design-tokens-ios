@@ -1,0 +1,6 @@
+use_frameworks!
+target 'mvp-design-tokens-lib-ios_Tests' do
+  pod 'mvp-design-tokens-lib-ios', :path => '../'
+  
+  
+end
